@@ -3,6 +3,7 @@
 - #### Download python https://www.python.org/
 - #### You'll need something to compile and run the python. If you're using vs-code like me, just add the python extension and you'll get a play button at the top-right of any python (.py) file. https://marketplace.visualstudio.com/items?itemName=ms-python.python
 
+##
 ### SETUP:
 - #### Make changes to the files only within the ```pretty/***``` directory.
 - #### Run the ```ini_minify.py``` script to build the correct files for Nitrado to the ```dist/``` directory.
