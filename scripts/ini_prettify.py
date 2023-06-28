@@ -7,7 +7,8 @@ def prettify_ini(input_path, output_path):
     pretty_data = []
     indent_level = 0
     for line in data:
-        # If line starts with a comment symbol or is an empty line, add it to the output as is
+        # If line starts with a comment symbol or is an empty line,
+        # add it to the output as is
         if line.strip().startswith((';', '#')) or line.strip() == '':
             pretty_data.append(line)
         else:
