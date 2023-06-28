@@ -1,10 +1,8 @@
-# FJORDUR
-
 ## Server Configuration:
 ### https://ark.fandom.com/wiki/Server_configuration
 - #### Specific config commands and where they should be located (only look at Game.ini and GameUserSettings.ini. The command line configuration can be ignored, unless you want to use them in-game).
 
-## Spawn Map:
+## Spawn Map: (Fjordur)
 ### https://ark.fandom.com/wiki/Mod:Fjordur/Spawn_Map
 - #### Specific Dino locations based on the map.
 
