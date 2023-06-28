@@ -1,3 +1,8 @@
+### SETUP:
+- #### Make changes to the files within the ```pretty/***``` directory.
+- #### Run the ```ini_minify.py``` script to build the correct files for Nitrado in the ```dist/``` directory.
+
+##
 ### Server Configuration: https://ark.fandom.com/wiki/Server_configuration
 - #### Specific config commands and where they should be located (only look at Game.ini and GameUserSettings.ini. The command line configuration can be ignored, unless you want to use them in-game).
 
