@@ -1,7 +1,15 @@
+# Server Configuration:
+## https://ark.fandom.com/wiki/Server_configuration
+### - Specific config commands and where they should be located (only look at Game.ini and GameUserSettings.ini. The command line configuration can be ignored, unless you want to use them in-game).
 
-# spawn entries:
-## https://ark.fandom.com/wiki/Spawn_entries
-## https://docs.google.com/spreadsheets/d/1OU2Q4EoEsjtRqMDJTIhTEJgxu9ETSE4Px5SYn3vUbCE/edit?pli=1#gid=0
+# Spawn Map: (Fjordur)
+## https://ark.fandom.com/wiki/Mod:Fjordur/Spawn_Map
+### - Specific Dino locations based on the Fjordur map.
 
 # Creature IDs:
 ## https://ark.fandom.com/wiki/Creature_IDs
+### - important dino class names for server config commands.
+
+# Item IDs:
+## https://ark.fandom.com/wiki/Item_IDs
+### - important item class names for server config commands.
