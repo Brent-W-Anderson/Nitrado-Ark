@@ -1,6 +1,11 @@
+### ENVIRONMENT SETUP:
+- #### I am using vs-code, but feel free to use any text-editor that you'd like. https://code.visualstudio.com/
+- #### Download python https://www.python.org/
+- #### You'll need something to compile and run the python. If you're using vs-code like me, just add the python extension and you'll get a play button at the top-right of any python (.py) file.
+
 ### SETUP:
-- #### Make changes to the files within the ```pretty/***``` directory.
-- #### Run the ```ini_minify.py``` script to build the correct files for Nitrado in the ```dist/``` directory.
+- #### Make changes to the files only within the ```pretty/***``` directory.
+- #### Run the ```ini_minify.py``` script to build the correct files for Nitrado to the ```dist/``` directory.
 
 ##
 ### Server Configuration: https://ark.fandom.com/wiki/Server_configuration
