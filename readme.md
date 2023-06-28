@@ -18,11 +18,11 @@
 
 ##
 ### Creature IDs: https://ark.fandom.com/wiki/Creature_IDs
-- #### important dino class names for server config commands.
+- #### Important dino class names for server config commands.
 
 ##
 ### Item IDs: https://ark.fandom.com/wiki/Item_IDs
-- #### important item class names for server config commands.
+- #### Important item class names for server config commands.
 
 ##
 ### Mods: https://ark.fandom.com/wiki/Mod:Mods
