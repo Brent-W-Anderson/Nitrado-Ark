@@ -46,5 +46,5 @@ def minify_ini(input_path, output_path):
         file.write('\n'.join(condensed_data))
 
 # Example usage
-minify_ini('Game_pretty.ini', 'dist/Game.ini')
-minify_ini('GameUserSettings_pretty.ini', 'dist/GameUserSettings.ini')
+minify_ini('pretty/Game.ini', 'dist/Game.ini')
+minify_ini('pretty/GameUserSettings.ini', 'dist/GameUserSettings.ini')

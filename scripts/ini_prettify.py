@@ -42,5 +42,5 @@ def prettify_ini(input_path, output_path):
         file.write('\n'.join(pretty_data))
 
 # Example usage - don't use it on dist files because they don't have any comments.
-# prettify_ini('Game.ini', 'Game_pretty.ini')
-# prettify_ini('GameUserSettings.ini', 'GameUserSettings_pretty.ini')
+# prettify_ini('dist/Game.ini', 'pretty/Game.ini')
+# prettify_ini('dist/GameUserSettings.ini', 'pretty/GameUserSettings.ini')
