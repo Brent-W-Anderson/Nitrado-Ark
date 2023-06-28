@@ -6,7 +6,7 @@
 ##
 ### PROJECT FILE OUTPUT DIRECTIONS FOR NITRADO:
 - #### Make changes to the files only within the ```pretty/***``` directory.
-- #### Run the ```ini_minify.py``` script to build the correct ```Game.ini``` & ```GameUserSettings.ini``` files for Nitrado to the ```dist/``` directory.
+- #### Run the ```ini_minify.py``` script to build the correct ```Game.ini``` & ```GameUserSettings.ini``` files for Nitrado that will be located in the ```dist/``` directory.
 
 ##
 ### Server Configuration: https://ark.fandom.com/wiki/Server_configuration
