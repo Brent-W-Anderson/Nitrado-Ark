@@ -13,3 +13,6 @@
 # Item IDs:
 ## https://ark.fandom.com/wiki/Item_IDs
 ### - important item class names for server config commands.
+
+# Mods list:
+## https://ark.fandom.com/wiki/Mod:Mods
