@@ -26,3 +26,7 @@
 
 ##
 ### Mods: https://ark.fandom.com/wiki/Mod:Mods
+
+##
+### ascii art converter: https://onlineasciitools.com/convert-text-to-ascii-art
+- #### I'm using the ```small``` font type for documenting header sections.
