@@ -41,6 +41,5 @@ def prettify_ini(input_path, output_path):
     with open(output_path, 'w') as file:
         file.write('\n'.join(pretty_data))
 
-# Example usage - don't use it on dist files because they don't have any comments.
-# prettify_ini('dist/Game.ini', 'pretty/Game.ini')
-# prettify_ini('dist/GameUserSettings.ini', 'pretty/GameUserSettings.ini')
+# Example usage - mainly used for testing the minified file by reverting it back.
+# prettify_ini('dist/test.ini', 'pretty/test.ini')
