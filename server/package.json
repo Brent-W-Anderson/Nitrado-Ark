@@ -1,0 +1,15 @@
+{
+  "name": "nitrado-ark",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Brent-W-Anderson/Nitrado-Ark.git",
+  "author": "Brent",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}

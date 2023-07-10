@@ -1,2 +1,3 @@
-# ignore the build files, since we already have the pretty version.
-dist/
+server/dist/
+server/node_modules/
+server/src/minified/
