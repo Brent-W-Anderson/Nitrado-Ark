@@ -30,7 +30,3 @@
 ##
 ### Mods: https://ark.wiki.gg/wiki/Mod:Mods
 - #### Mods can't be used on Playstation Servers because of strict Sony mod restrictions.
-
-##
-### ascii art converter: https://onlineasciitools.com/convert-text-to-ascii-art
-- #### I'm using the ```small``` font type for documenting header sections.
