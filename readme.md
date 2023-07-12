@@ -12,10 +12,6 @@
 - #### Specific Dino locations that already exist based on the map.
 
 ##
-### Creature list: https://www.dododex.com/dinosaurs
-### Creature list (Fjordur): https://www.dododex.com/dinosaurs/fjordur
-
-##
 ### Creature IDs: https://ark.wiki.gg/wiki/Creature_IDs
 - #### Important dino class names for server config commands.
 
