@@ -3,6 +3,9 @@ const cheerio = require( 'cheerio' )
 const fs = require( 'fs' )
 const path = require( 'path' )
 
+// which url location to begin web scrape
+const url = 'https://www.ark-survival.net/en/2015/11/25/list-of-all-released-creatures-in-ark/'
+
 // Create the "assets" directory if it doesn't exist
 const assetsDir = path.join( __dirname, '../src/assets' )
 if ( !fs.existsSync( assetsDir ) ) {
@@ -23,7 +26,7 @@ if ( !fs.existsSync( cardsDir ) ) {
 }
 
 // searches through each dino link to grab the image.
-const scrape_dino_links = async ( url ) => {
+const scrape_dino_links = async () => {
     try {
         const response = await axios.get( url )
         const html = response.data
@@ -57,5 +60,4 @@ const scrape_dino_links = async ( url ) => {
     }
 }
 
-const websiteUrl = 'https://www.ark-survival.net/en/2015/11/25/list-of-all-released-creatures-in-ark/'
-scrape_dino_links( websiteUrl )
+scrape_dino_links()
