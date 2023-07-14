@@ -1,5 +1,6 @@
 import React, { useState } from 'react'
 
+import data from '../assets/creatures.json'
 import './app.scss'
 
 const App = () => {
@@ -9,6 +10,8 @@ const App = () => {
         const text = document.getElementById( "myCode" )?.innerText.trim()
         navigator.clipboard.writeText( text! )
     }
+
+    console.warn( data )
 
     return <>
         <h1> Ark Server Configuration </h1>
